@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobileBankingApp</string>
+
+    <string-array name="depositPeriods">
+        <item>1 luna</item>
+        <item>3 luni</item>
+        <item>6 luni</item>
+        <item>9 luni</item>
+        <item>12 luni</item>
+    </string-array>
+
+</resources>
